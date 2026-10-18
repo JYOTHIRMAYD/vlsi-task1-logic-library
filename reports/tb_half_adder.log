@@ -1,0 +1,8 @@
+VCD info: dumpfile sim/tb_half_adder.vcd opened for output.
+ a b | sum carry
+ 0 0 |  0    0
+ 0 1 |  1    0
+ 1 0 |  1    0
+ 1 1 |  0    1
+RESULT: tb_half_adder PASSED
+tb/tb_half_adder.v:24: $finish called at 50000 (1ps)

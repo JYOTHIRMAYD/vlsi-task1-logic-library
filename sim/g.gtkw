@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.126 (w)1999-2026 BSI
+[*] Sun Oct 18 04:19:39 2026
+[*]
+[dumpfile] "/home/t-r-jyothirmay-dikshith/vlsi_task1_logic_library/sim/tb_half_adder.vcd"
+[dumpfile_mtime] "Sun Oct 18 04:17:57 2026"
+[dumpfile_size] 615
+[savefile] "/home/t-r-jyothirmay-dikshith/vlsi_task1_logic_library/sim/g.gtkw"
+[timestart] 4
+[size] 1000 600
+[pos] -1 -1
+*0.000000 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+tb_half_adder.a
+tb_half_adder.b
+tb_half_adder.carry
+@420
+tb_half_adder.errors
+@421
+tb_half_adder.i
+@28
+tb_half_adder.sum
+[pattern_trace] 1
+[pattern_trace] 0

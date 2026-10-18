@@ -1,0 +1,17 @@
+VCD info: dumpfile sim/tb_mux4to1.vcd opened for output.
+ sel  d3d2d1d0 | y
+  00   0000  | 0
+  00   0101  | 1
+  00   1010  | 0
+  00   1111  | 1
+  01   0100  | 0
+  01   1001  | 0
+  01   1110  | 1
+  10   0011  | 0
+  10   1000  | 0
+  10   1101  | 1
+  11   0010  | 0
+  11   0111  | 0
+  11   1100  | 1
+RESULT: tb_mux4to1 PASSED
+tb/tb_mux4to1.v:27: $finish called at 650000 (1ps)

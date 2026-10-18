@@ -1,0 +1,7 @@
+RESULT: tb_logic_gates PASSED
+RESULT: tb_half_adder PASSED
+RESULT: tb_full_adder PASSED
+RESULT: tb_mux2to1 PASSED
+RESULT: tb_mux4to1 PASSED
+RESULT: tb_ripple_carry_adder_4bit PASSED
+RESULT: tb_adder_nbit PASSED

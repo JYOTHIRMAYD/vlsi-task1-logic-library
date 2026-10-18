@@ -1,0 +1,4 @@
+VCD info: dumpfile sim/tb_ripple_carry_adder_4bit.vcd opened for output.
+Vectors applied: 512
+RESULT: tb_ripple_carry_adder_4bit PASSED
+tb/tb_ripple_carry_adder_4bit.v:47: $finish called at 2620000 (1ps)

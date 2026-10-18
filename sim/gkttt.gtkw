@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.126 (w)1999-2026 BSI
+[*] Sun Oct 18 05:06:47 2026
+[*]
+[dumpfile] "/home/t-r-jyothirmay-dikshith/vlsi_task1_logic_library/sim/tb_adder_nbit.vcd"
+[dumpfile_mtime] "Sun Oct 18 05:04:43 2026"
+[dumpfile_size] 149367
+[savefile] "/home/t-r-jyothirmay-dikshith/vlsi_task1_logic_library/sim/gkttt.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-19.436123 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@22
+tb_adder_nbit.a8[7:0]
+tb_adder_nbit.a16[15:0]
+tb_adder_nbit.b8[7:0]
+tb_adder_nbit.b16[15:0]
+@28
+tb_adder_nbit.c8
+tb_adder_nbit.c16
+tb_adder_nbit.co8
+tb_adder_nbit.co16
+@421
+tb_adder_nbit.errors
+@22
+tb_adder_nbit.exp8[8:0]
+tb_adder_nbit.exp16[16:0]
+[pattern_trace] 1
+[pattern_trace] 0

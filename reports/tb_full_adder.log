@@ -1,0 +1,12 @@
+VCD info: dumpfile sim/tb_full_adder.vcd opened for output.
+ a b cin | sum cout
+ 0 0  0  |  0    0
+ 0 0  1  |  1    0
+ 0 1  0  |  1    0
+ 0 1  1  |  0    1
+ 1 0  0  |  1    0
+ 1 0  1  |  0    1
+ 1 1  0  |  0    1
+ 1 1  1  |  1    1
+RESULT: tb_full_adder PASSED
+tb/tb_full_adder.v:28: $finish called at 90000 (1ps)

@@ -1,0 +1,12 @@
+VCD info: dumpfile sim/tb_mux2to1.vcd opened for output.
+ sel a b | y
+  0  0 0 | 0
+  0  0 1 | 0
+  0  1 0 | 1
+  0  1 1 | 1
+  1  0 0 | 0
+  1  0 1 | 1
+  1  1 0 | 0
+  1  1 1 | 1
+RESULT: tb_mux2to1 PASSED
+tb/tb_mux2to1.v:26: $finish called at 90000 (1ps)

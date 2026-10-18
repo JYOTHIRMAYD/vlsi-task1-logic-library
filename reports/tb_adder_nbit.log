@@ -1,0 +1,3 @@
+VCD info: dumpfile sim/tb_adder_nbit.vcd opened for output.
+RESULT: tb_adder_nbit PASSED
+tb/tb_adder_nbit.v:61: $finish called at 2050000 (1ps)

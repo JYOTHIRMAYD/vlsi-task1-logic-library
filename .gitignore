@@ -1,0 +1,4 @@
+sim/*.vvp
+sim/*.vcd
+*.swp
+__pycache__/

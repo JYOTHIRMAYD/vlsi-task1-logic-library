@@ -1,0 +1,8 @@
+VCD info: dumpfile sim/tb_logic_gates.vcd opened for output.
+ a b | AND OR XOR NAND NOR XNOR | NOT(a)
+ 0 0 |  0   0   0    1    1    1   |   1
+ 0 1 |  0   1   1    1    0    0   |   1
+ 1 0 |  0   1   1    1    0    0   |   0
+ 1 1 |  1   1   0    0    0    1   |   0
+RESULT: tb_logic_gates PASSED
+tb/tb_logic_gates.v:54: $finish called at 50000 (1ps)
