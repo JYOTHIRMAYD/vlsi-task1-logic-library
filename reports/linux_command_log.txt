@@ -1,6 +1,6 @@
 
 $ pwd
-/home/claude/vlsi_task1_logic_library
+/home/t-r-jyothirmay-dikshith/vlsi_task1_logic_library
 
 $ mkdir -p /tmp/vlsi_practice
 
@@ -28,27 +28,27 @@ $ mv rtl/demo_backup.v docs/demo_copy.v
 $ ls -l rtl docs
 docs:
 total 4
--rw-r--r-- 1 root root 23 Oct 18 03:21 demo_copy.v
+-rw-rw-r-- 1 t-r-jyothirmay-dikshith t-r-jyothirmay-dikshith 23 Oct 18 21:20 demo_copy.v
 
 rtl:
 total 4
--rw-r--r-- 1 root root 23 Oct 18 03:21 demo.v
+-rw-rw-r-- 1 t-r-jyothirmay-dikshith t-r-jyothirmay-dikshith 23 Oct 18 21:20 demo.v
 
 $ echo '#!/bin/bash' > scripts/hello.sh && echo 'echo Hello VLSI' >> scripts/hello.sh
 
 $ ls -l scripts/hello.sh
--rw-r--r-- 1 root root 28 Oct 18 03:21 scripts/hello.sh
+-rw-rw-r-- 1 t-r-jyothirmay-dikshith t-r-jyothirmay-dikshith 28 Oct 18 21:20 scripts/hello.sh
 
 $ chmod +x scripts/hello.sh
 
 $ ls -l scripts/hello.sh
--rwxr-xr-x 1 root root 28 Oct 18 03:21 scripts/hello.sh
+-rwxrwxr-x 1 t-r-jyothirmay-dikshith t-r-jyothirmay-dikshith 28 Oct 18 21:20 scripts/hello.sh
 
 $ ./scripts/hello.sh
 Hello VLSI
 
 $ chmod 644 rtl/demo.v && ls -l rtl/demo.v
--rw-r--r-- 1 root root 23 Oct 18 03:21 rtl/demo.v
+-rw-r--r-- 1 t-r-jyothirmay-dikshith t-r-jyothirmay-dikshith 23 Oct 18 21:20 rtl/demo.v
 
 $ rm docs/demo_copy.v
 
